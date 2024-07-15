@@ -51,3 +51,4 @@ vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.nu = true
 vim.opt.incsearch = true
+vim.opt.ignorecase = true
